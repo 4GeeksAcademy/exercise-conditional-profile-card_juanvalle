@@ -1,4 +1,4 @@
-<!--hide-->
+w<!--hide-->
 # Tarjeta de Perfil Condicional
 <!--endhide-->
 
